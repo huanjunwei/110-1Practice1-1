@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="TimeAccess.aspx.cs" Inherits="_110_1Practice1_1.TimeAccess" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="TimeAccess.aspx.cs" Inherits="_110_1Practice1_1.TimeAccess1" %>
 
 <!DOCTYPE html>
 

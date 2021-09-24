@@ -7,12 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-
-namespace _110_1Practice1_1
-{
-    public partial class TimeAccess
-    {
-
+namespace _110_1Practice1_1 {
+    
+    
+    public partial class TimeAccess1 {
+        
         /// <summary>
         /// form1 控制項。
         /// </summary>
